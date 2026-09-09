@@ -1,5 +1,2 @@
 print("new file") 
 print("mod file")
-print("current changes")
-print("latest")
-print("branch created")
