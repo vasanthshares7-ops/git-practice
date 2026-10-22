@@ -4,5 +4,8 @@ print("Pyspark ETl started")
 
 =======
 print("customer branch")
+<<<<<<< HEAD
 print("new branch")
+>>>>>>> feature/customer-etl
+=======
 >>>>>>> feature/customer-etl
